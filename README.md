@@ -67,7 +67,7 @@ by requiring it from the startup method.
 Documentation
 ------------
 Currently there is no real documentation from where you can read, but 
-you can read the javadoc or you can check out the integration tests located [here]
+you can read the javadoc or you can check out the integration tests located  https://github.com/nookashiva/custom-di-tests
 
 More info
 -------------

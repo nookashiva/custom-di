@@ -4,6 +4,19 @@ Custom Dependency Injection , kind of IOC
 -----------------------
 Custom made dependency Injection replicating the functionality of Spring IOC.
 
+Design considerations :
+1. Core pattern we will use there is Dependency injection pattern
+2. Loosely coupled
+3. Logging
+4. Modularity 
+5. Integrated Unit testing
+6. JDK 1.8 - target build
+
+Limitations : 
+1. Not a full plugged container 
+2. No version backword compactability 
+
+
 Main Features
 -----------------------
 * Create instance of your services
